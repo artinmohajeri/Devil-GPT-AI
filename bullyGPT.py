@@ -8,14 +8,7 @@ from selenium.webdriver.chrome.options import Options
 import tkinter as tk
 import ttkbootstrap as ttkb
 from tkinter import messagebox
-import time,os,sys
-
-def resource_path(path):
-    try:
-        base_path = sys._MEIPASS
-    except Exception:
-        base_path = os.path.abspath(".")
-    return os.path.join(base_path, path)
+import time
 
 count = 0
 chats = 0
