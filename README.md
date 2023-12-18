@@ -6,6 +6,7 @@
 ![redLine](https://github.com/artinmohajeri/Devil-GPT-AI/assets/95845593/2f3c8a4c-5b34-4272-afb1-8a982782b524)
 ### You can chat to a Devil AI which is built to insult you. (a fun conversation)!!
 - the whole idea of this app is mine from a-z
+- This programm uses selenium bot so sometimes, internet connection and the website situation prevents the bot from working. be aware
 ### the website I have used is https://bratgpt.com/
 
 
